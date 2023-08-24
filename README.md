@@ -65,49 +65,6 @@
 
 <img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/24Amol/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31yyfo22lfxd6i7tvgahjyvrnu4a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
-
-###
-
-<img align="left" height="100" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  />
-
-###
 
 <h1 align="center">Thanks for Visiting</h1>
 
