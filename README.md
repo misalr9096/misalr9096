@@ -2,11 +2,6 @@
 
 ###
 
-<br clear="both">
-
-
-###
-
 <img align="left" height="355" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  />
 
 ###
