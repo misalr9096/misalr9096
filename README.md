@@ -16,6 +16,17 @@
 
 <p align="center">A Passionate Java Developer from India<br><br>- 📚 I'm currently learning J2EE, React Js<br>- ⚡ How to reach me rushimisal5@gmail.com</p>
 
+
+<div align="center">
+  <a href="https://github.com/misalr9096" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/misalr9096" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
@@ -54,16 +65,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://github.com/misalr9096" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/misalr9096" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=misalr9096&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=misalr9096&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
