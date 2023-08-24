@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
