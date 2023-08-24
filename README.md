@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Misal</h1>
 
-###
-
-<img align="left" height="355" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  />
-
-###
-
-<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
