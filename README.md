@@ -3,8 +3,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+  <img height="35" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
+
 <br/>
 
 ###
